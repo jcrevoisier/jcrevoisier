@@ -40,7 +40,7 @@ I'm a **Senior Software Engineer** focused on **advanced web scraping**, **brows
 ### 📬 Contact
 
 Feel free to connect or reach out:  
-- 📧 crevoisierj@gmail.com  
+- 📧 crevoisierj@hotmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/crevoisierjerome/)
 
 ---
