@@ -6,10 +6,8 @@ I'm a **Senior Backend Engineer** with deep expertise in **web scraping**, **dat
 
 ### 🧠 What I Do
 
-- 🕷️ Build **stealth scraping systems** using Playwright, Puppeteer, and Scrapy  
-- 🔍 Reverse engineer **undocumented APIs** via HAR analysis and browser DevTools  
-- 🤖 Solve **CAPTCHAs**, manage rotating proxies, and simulate **human browsing behavior**  
-- 🧠 Use **LLMs** (OpenAI, Hugging Face, LangChain) to extract, enrich, and structure messy data  
+- 🕷️ Build **advanced scraping systems** with stealth automation, proxy rotation, CAPTCHA solving, and reverse-engineering of hidden APIs  
+- 🧠 Use **LLMs** (OpenAI, Hugging Face, LangChain) to extract, enrich, and structure unstructured web data  
 - 🛠️ Design and deploy **scalable backend infrastructure** with Docker, Redis, PostgreSQL, and Prometheus  
 - ☁️ Architect **end-to-end data platforms** on cloud (GCP, AWS, Azure) with CI/CD and monitoring
 
