@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Jerome
 
-I'm a **Senior Backend Engineer** with deep expertise in **web scraping**, **data pipelines**, and **LLM-powered automation**. I help startups and teams transform raw web data into structured, actionable insights—securely and at scale.
+I'm a **Senior Backend Engineer** with deep expertise in **web scraping**, **data pipelines**, and **LLM-powered automation**. I help startups and teams transform raw web data into structured, actionable insights, securely and at scale.
 
 ---
 
@@ -8,7 +8,8 @@ I'm a **Senior Backend Engineer** with deep expertise in **web scraping**, **dat
 
 - 🕷️ Build **advanced scraping systems** with stealth automation, proxy rotation, CAPTCHA solving, and reverse-engineering of hidden APIs  
 - 🧠 Use **LLMs** (OpenAI, Hugging Face, LangChain) to extract, enrich, and structure unstructured web data  
-- 🛠️ Design and deploy **scalable backend infrastructure** with Docker, Redis, PostgreSQL, and Prometheus  
+- 🔌 Develop robust APIs using FastAPI, with async support, versioning, auth, and clean architecture best practices
+- 🛠️ Design and deploy scalable backend infrastructure with Docker, Celery, Redis, PostgreSQL
 - ☁️ Architect **end-to-end data platforms** on cloud (GCP, AWS, Azure) with CI/CD and monitoring
 
 ---
@@ -16,10 +17,11 @@ I'm a **Senior Backend Engineer** with deep expertise in **web scraping**, **dat
 ### 🧰 Tech Stack
 
 **Languages**: Python · TypeScript · JavaScript · SQL  
-**Scraping & Automation**: Playwright · Puppeteer · Selenium · Scrapy · BeautifulSoup · pdfplumber  
+**Backend Development**: FastAPI · Flask · Node.js · Express · REST API design · async programming · Celery · RabbitMQ · CI/CD pipelines · pytest
+**Scraping & Automation**: Playwright · Puppeteer · Selenium · Scrapy · BeautifulSoup · pdfplumber · requests · aiohttp · Tor · Proxy Pools · Stealth Browsers 
 **LLMs & Parsing**: LangChain · OpenAI · Hugging Face · Unstructured.io · LlamaIndex  
-**Data Infra**: PostgreSQL · Redis · ClickHouse · PeerDB · Pandas · Airflow  
-**DevOps**: Docker · GitHub Actions · Kubernetes · AWS ECS · GCP · Prometheus · Grafana
+**Databases**: SQL (PostgreSQL, MySQL) · NoSQL (MongoDB, Redis)  
+**DevOps**: Docker · GitHub Actions · Kubernetes · AWS · GCP
 
 ---
 
