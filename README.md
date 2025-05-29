@@ -17,7 +17,7 @@ I'm a **Senior Backend Engineer** with deep expertise in **web scraping**, **dat
 ### 🧰 Tech Stack
 
 **Languages**: Python · TypeScript · JavaScript · SQL  
-**Backend Development**: FastAPI · Flask · Node.js · Express · REST API design · async programming · Celery · RabbitMQ · CI/CD pipelines · pytest
+**Backend Development**: FastAPI · Flask · Django · Node.js · Express · REST API design · async programming · Celery · RabbitMQ · CI/CD pipelines · pytest
 **Scraping & Automation**: Playwright · Puppeteer · Selenium · Scrapy · BeautifulSoup · pdfplumber · requests · aiohttp · Tor · Proxy Pools · Stealth Browsers 
 **LLMs & Parsing**: LangChain · OpenAI · Hugging Face · Unstructured.io · LlamaIndex  
 **Databases**: SQL (PostgreSQL, MySQL) · NoSQL (MongoDB, Redis)  
