@@ -25,7 +25,7 @@ I'm a **Senior Backend Engineer** with deep expertise in **web scraping**, **dat
 
 ### 🚀 Featured Projects
 
-- [`ai-chat`]([https://github.com/jcrevoisier/ai-chat])   
+- [`ai-chat`](https://github.com/jcrevoisier/ai-chat)   
   🤖 FastAPI AI Chat Application with OpenAI and HuggingFace integration
   
 - [`advanced-browser-scraper`](https://github.com/jcrevoisier/advanced-browser-scraper)  
