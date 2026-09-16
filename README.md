@@ -1,3 +1,3 @@
-Senior Backend & AI Engineer. Most of my work is private - backend and multi-agent AI systems in startups.
+Senior Backend & AI Engineer. Most of my work is in private company repositories.
 
-LinkedIn: linkedin.com/in/crevoisierjerome
+LinkedIn: **linkedin.com/in/crevoisierjerome**
